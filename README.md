@@ -1,4 +1,4 @@
-# patent_similarity_data
+# Patent Similarity Data and Measure
 US utility patent similarity data creation and analysis tools. 
 
 The Jupyter notebook (patent_sim_data_notebook.ipynb) demonstrates various uses for the dataset. Start here for an overview and introduction.
