@@ -5,6 +5,7 @@ The Jupyter notebook (patent_sim_data_notebook.ipynb) demonstrates various uses 
 
 patent_d2v.py provides replication code for the Doc2Vec model computation, and vector extraction. 
 
-write_sim_data_to_db.py provides code that will update a local version of a patent database with tables containing the patent similarity data shared at Zenodo: [LINK TO DATA HERE]
+write_sim_data_to_db.py provides code that will update a local version of a patent database with tables containing the patent similarity data shared at Zenodo: https://zenodo.org/record/3552078
 
-To reference this work, please cite: [CITATION HERE]
+To reference this work, please cite: Whalen, R., Lungeanu, A., DeChurch, L. A., & Contractor, N. (Forthcoming). Patent Similarity Data and Innovation Measures. Journal of Empirical Legal Studies.
+
