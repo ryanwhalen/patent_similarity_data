@@ -7,5 +7,8 @@ patent_d2v.py provides replication code for the Doc2Vec model computation, and v
 
 write_sim_data_to_db.py provides code that will update a local version of a patent database with tables containing the patent similarity data shared at Zenodo: https://zenodo.org/record/3552078
 
+Patent metadata and text to join to similarity data can be downloaded directly from the USPTO here:https://www.patentsview.org/download/. 
+Alternately the script here will automate the downloading & database-making processes: https://github.com/ryanwhalen/patentsview_data_download
+
 To reference this work, please cite: Whalen, R., Lungeanu, A., DeChurch, L. A., & Contractor, N. (Forthcoming). "Patent Similarity Data and Innovation Measures." *Journal of Empirical Legal Studies.*
 
