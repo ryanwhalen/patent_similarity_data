@@ -10,5 +10,5 @@ write_sim_data_to_db.py provides code that will update a local version of a pate
 Patent metadata and text to join to similarity data can be downloaded directly from the USPTO here:https://www.patentsview.org/download/. 
 Alternately the script here will automate the downloading & database-making processes: https://github.com/ryanwhalen/patentsview_data_download
 
-To reference this work, please cite: Whalen, R., Lungeanu, A., DeChurch, L. A., & Contractor, N. (Forthcoming). "Patent Similarity Data and Innovation Measures." *Journal of Empirical Legal Studies.*
+To reference this work, please cite: Whalen, R., Lungeanu, A., DeChurch, L. A., & Contractor, N. (Forthcoming). "Patent Similarity Data and Innovation Metrics." *Journal of Empirical Legal Studies.*
 
